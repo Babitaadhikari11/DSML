@@ -1,0 +1,2 @@
+this is my first log.
+this is my second log
